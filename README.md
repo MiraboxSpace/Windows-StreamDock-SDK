@@ -22,4 +22,4 @@ This SDK provides a complete set of easy-to-use `WebSocket` interfaces, allowing
 ## 🧑‍💻 Getting Started
 
 Start your journey to StreamDock freedom today and take control of your device like never before! 😄
-[View Documentation](https://creator.key123.vip/windows/websocket/overview.html)
+[View Documentation](https://creator.key123.vip/en/windows/websocket/overview.html)
